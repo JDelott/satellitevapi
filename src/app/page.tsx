@@ -9,6 +9,7 @@ export default function Home() {
         <ul>
           <li><code>POST /api/vapi/start-session</code> - Start VAPI session</li>
           <li><code>POST /api/vapi/end-session</code> - End VAPI session</li>
+          <li><code>POST /api/vapi/send-message</code> - Send message to VAPI</li>
           <li><code>GET /api/vapi/test</code> - Test VAPI connectivity</li>
         </ul>
       </div>
